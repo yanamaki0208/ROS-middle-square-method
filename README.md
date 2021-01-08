@@ -8,7 +8,7 @@ This is a shot of random numbers being generated.　↓　![image](https://user-
 This is a link to a demo video　→　https://www.youtube.com/watch?v=T2Y9UUCg_V8&feature=youtu.be
 
 # Requirement  
-*OS Ubuntu 20.04  
+*OS Ubuntu 20.04LTS  
 *ROS Noetic Ninjemys  
 
 # Usage
@@ -32,7 +32,7 @@ This is a link to a demo video　→　https://www.youtube.com/watch?v=T2Y9UUCg_
 `ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method$ cd script`  
 
 *build this package
-`ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method/script$ ( cd ~ catkin_ws/ && catkin_make -j1 )`
+`ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method/script$ ( cd ~ catkin_ws/ && catkin_make -j1 )`  
 
 *give execution privileges to all users  
 `ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method/script$ chmod +x heihoupub.py`  
