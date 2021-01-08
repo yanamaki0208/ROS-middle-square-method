@@ -31,9 +31,6 @@ This is a link to a demo video　→　https://www.youtube.com/watch?v=T2Y9UUCg_
 `ubuntu@ubuntu:~/catkin_ws/src$ cd ROS-middle-spuare-method`  
 `ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method$ cd script`  
 
-*build this package  
-`ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method/script$ ( cd ~ catkin_ws/ && catkin_make -j1 )`  
-
 *give execution privileges to all users  
 `ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method/script$ chmod +x heihoupub.py`  
 
@@ -41,6 +38,11 @@ This is a link to a demo video　→　https://www.youtube.com/watch?v=T2Y9UUCg_
 
 *move directory  
 `ubuntu@ubuntu:~$ cd catkin_ws`  
+
+*build this package  
+`ubuntu@ubuntu:~/catkin_ws$ catkin_make`  
+
+*move directory
 `ubuntu@ubuntu:~/catkin_ws$ cd src`  
 `ubuntu@ubuntu:~/catkin_ws/src$ cd ROS-middle-square-method`  
 `ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method$ cd script`  
