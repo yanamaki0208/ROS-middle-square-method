@@ -26,7 +26,7 @@ This is a link to a demo video　→　https://youtu.be/8OblQAT-ow4
 
 *copy the repository  
 `ubuntu@ubuntu:~/catkin_ws/src$ git clone https://github.com/yanamaki0208/ROS-middle-square-method.git`  
-*
+*move directory  
 `ubuntu@ubuntu:~/catkin_ws/src$ cd ..`  
 
 *build this package  
