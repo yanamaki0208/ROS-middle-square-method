@@ -31,7 +31,7 @@ This is a link to a demo video　→　https://www.youtube.com/watch?v=T2Y9UUCg_
 `ubuntu@ubuntu:~/catkin_ws/src$ cd ROS-middle-spuare-method`  
 `ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method$ cd script`  
 
-*build this package
+*build this package  
 `ubuntu@ubuntu:~/catkin_ws/src/ROS-middle-square-method/script$ ( cd ~ catkin_ws/ && catkin_make -j1 )`  
 
 *give execution privileges to all users  
