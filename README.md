@@ -85,4 +85,4 @@ The smaller the initial value s1 is, the faster the random number converges to z
 
 # License
 
-"middle-square-method" is under [MIT License] (https://ja.wikipedia.org/wiki/MIT_License).
+"middle-square-method" is under [MIT License](https://ja.wikipedia.org/wiki/MIT_License).
